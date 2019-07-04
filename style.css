@@ -1,9 +1,5 @@
-.googleLogo {
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.searchbar {
-    margin-left: auto;
-    margin-right: auto;
+container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
